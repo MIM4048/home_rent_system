@@ -1,0 +1,30 @@
+Project Installation Manual:
+Step 1: First install the xampp control papel.
+Download link: https://www.apachefriends.org/download.html
+Step 2: Then start "Apache" and "Mysql" from xampp.
+Step 3: Then unzip the folder called "renthouse.zip" using winrar software.
+Step 4: After that move the unzip folder in the "htdocs" folder.
+  Folder location: C:\xampp\htdocs
+Step 5: Then open: http://localhost/phpmyadmin/
+Step 6: Create new database on clicking "New" button.
+Step 7: Give database name as: "renthouse"
+Step 8: Then click "Create" button.
+Step 9: After creating a database, now click "import" button from the topbar.
+Step 10: Then select Sql file from project database folder which previously moved in htdocs folder.
+File name: "renthouse.sql"
+File location: C:\xampp\htdocs\renthouse\database
+Step 11: Then click "Go" button. You have sucessfully create the project database.
+Step 12: Now run the project visit: "http://localhost/renthouse" from your crome or edge browser. 
+Thank you!! Enjoy!
+
+
+Admin panel: Visit login page from top right corner and click "Admin Login" button.
+Admin Email: admin123@gmail.com
+Admin Password: 12345
+
+Important Notes:
+In the database no dummy accounts for tanent and Owner. For that reason after running the project we have to register from tanent and owner register page. 
+Also there are no property created from owner dashboard. You have to add more than two dummy property from owner dashboard by clicking "add property" button.
+
+
+Thank you!! Enjoy!!
